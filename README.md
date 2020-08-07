@@ -9,6 +9,7 @@ Solution:
 conda install -c conda-forge poppler
 <\p>
 
+<br>
 <p>
   File "c:/Users/Jaba/Documents/GitHub/tableocr/imageGUI.py", line 4, in <module>
     from PIL import Image
