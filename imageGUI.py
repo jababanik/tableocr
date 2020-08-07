@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from tkinter.filedialog import askopenfilename
-from PIL import Image
+# from PIL import Image
 import pytesseract
 
 root = Tk(  )
