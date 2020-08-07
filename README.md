@@ -11,9 +11,7 @@ conda install -c conda-forge poppler
 
 <br>
 <p>
-  File "c:/Users/Jaba/Documents/GitHub/tableocr/imageGUI.py", line 4, in <module>
-    from PIL import Image
-  File "C:\Users\Jaba\Anaconda3\envs\deeplearning\lib\site-packages\PIL\Image.py", line 95, in <module>
-    from . import _imaging as core
+from PIL import Image
+from . import _imaging as core
 ImportError: DLL load failed: The specified module could not be found.
 </p>
