@@ -7,7 +7,7 @@ Error: Unable to get page count. Is poppler installed and in PATH?
 <br>
 Solution:
 conda install -c conda-forge poppler
-<\p>
+</p>
 
 <br>
 <p>
@@ -16,4 +16,4 @@ conda install -c conda-forge poppler
   File "C:\Users\Jaba\Anaconda3\envs\deeplearning\lib\site-packages\PIL\Image.py", line 95, in <module>
     from . import _imaging as core
 ImportError: DLL load failed: The specified module could not be found.
-<\p>
+</p>
