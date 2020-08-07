@@ -14,4 +14,11 @@ conda install -c conda-forge poppler
 from PIL import Image
 from . import _imaging as core
 ImportError: DLL load failed: The specified module could not be found.
+<br>
+conda uninstall pillow
+pip install pillow
+<br>
+Importing the numpy C-extensions failed. This error can happen for
+many reasons, often due to issues with your setup or how NumPy was
+installed.
 </p>
